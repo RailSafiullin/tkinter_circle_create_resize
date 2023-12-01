@@ -12,7 +12,7 @@ This program is a graphical Python application that allows you to visualize a ge
 
 ```cmd
 
-git clone https://github.com/RailSafiullin/tkinter_circle_create_resize.
+git clone https://github.com/RailSafiullin/tkinter_circle_create_resize
 cd tkinter_circle_create_resize
 pip install pytest
 python main.py
